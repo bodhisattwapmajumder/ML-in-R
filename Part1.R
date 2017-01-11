@@ -1,7 +1,5 @@
------------------------------------------------------------------------------------------------------
-# The code has been written for the winter project guided by Latenview Analytics as a part of       #
-# data preparation by Group 4                                                                       #
-# Co-author: Bodhisattwa, Somya and Faichali                                                        #
+----------------------------------------------------------------------------------------------------
+# Co-author: Bodhisattwa, Somya                                                        #
 -----------------------------------------------------------------------------------------------------
 library(ggplot2)
 library(stringr)
