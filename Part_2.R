@@ -1,7 +1,5 @@
 -----------------------------------------------------------------------------------------------------
-# The code has been written for the winter project guided by Latenview Analytics as a part of       #
-# data modelling by Group 4                                                                         #
-# Co-author: Bodhisattwa, Somya and Faichali                                                        #
+# Co-author: Bodhisattwa, Somya                                                        #
 -----------------------------------------------------------------------------------------------------
 
 setwd("C:/Users/Bodhisattya/Desktop/PGDBA/Latentview Winter/codes/part 2")
